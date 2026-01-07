@@ -18,8 +18,8 @@ sudo apt update
 sudo apt install macchanger
 
 📥 Clone the Repository
-git clone https://github.com/yourusername/mac-changer.git
-cd mac-changer
+https://github.com/ifyouknowyou/Mac-Changer.git
+cd Mac-Changer
 
 
 Usage:
@@ -27,7 +27,6 @@ Usage:
 Make the script executable:
 
 chmod +x mac_changer.sh
-
 
 Run the script with sudo:
 
