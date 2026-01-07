@@ -27,9 +27,9 @@ Usage:
 
 Make the script executable:
 
-chmod +x mac_changer.sh
+chmod +x Mac_Changer.sh
 
 Run the script with sudo:
 
-sudo ./mac_changer.sh
+sudo ./Mac_Changer.sh
 
