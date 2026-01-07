@@ -17,10 +17,10 @@ Install macchanger if not installed:
 sudo apt update
 sudo apt install macchanger
 
-📥 Clone the Repository
-https://github.com/ifyouknowyou/Mac-Changer.git
+📥 Clone the Repository:
+git clone https://github.com/ifyouknowyou/Mac-Changer.git
 
-cd Mac-Changer
+$ cd Mac-Changer
 
 
 Usage:
